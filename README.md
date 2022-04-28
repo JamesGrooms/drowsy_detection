@@ -8,7 +8,7 @@ IF you follow this README, you too will be able to replicate our results!
 ## Code Retrieval
 In order to get the code from my repo, you have two options:
 1) You can individually download each jupyter notebook (.ipynb) to your local machine
-2) You can clone this entire rep
+2) You can clone this entire repo
 
 ## Dataset Retrieval
 Due to the size of the dataset, I have not included it here in my repo. However, I have a Kaggle API link that will allow you to simply download it in one cell block in google collab.
